@@ -22,9 +22,9 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = '𝑆𝛪𝐷 𝐵𝛨𝛥𝛪';
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
+global.ownername = '𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐔𝐈 𝐌𝐒𝐄𝐋𝐀';
+global.owner = ['260 95 2288596'];
+global.premium = ['260 95 2288596'];
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
 global.author = '𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫';
 global.sessionName = 'session';
@@ -49,7 +49,7 @@ global.autoswview = process.env.AUTO_STATUS_SEEN || "true",
 global.typemenu = 'v1' // 'v1' => 'v5'
 global.onlygroup = false // onlygroup
 global.onlypc = false
-global.welcome = process.env.WELCOME_MSG || "true",
+global.welcome = process.env.WELCOME_MSG || "false",
 global.AUTO_ABOUT = false
 global.limitawal = {
     premium: 'Infinity',
