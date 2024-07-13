@@ -23,8 +23,8 @@ global.APIs = {
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
 global.ownername = '𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐔𝐈 𝐌𝐒𝐄𝐋𝐀';
-global.owner = ['260 95 2288596'];
-global.premium = ['260 95 2288596'];
+global.owner = ['260774358600'];
+global.premium = ['260774358600'];
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
 global.author = '𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫';
 global.sessionName = 'session';
